@@ -115,7 +115,15 @@
             "quickSearch": 1,
             "changeable": 1
         },
-
+{
+            "key": "奇优影视",
+            "name": "⚽️奇优｜影视",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "文采",
             "name": "💮文采┃秒播",
