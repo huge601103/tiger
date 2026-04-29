@@ -87,7 +87,7 @@
         },
         {
             "key": "bili",
-            "name": "笔触｜琉璃",
+            "name": "✒️笔触｜琉璃",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -98,7 +98,7 @@
         },
         {
             "key": "zhiqiu",
-            "name": "听风｜知秋",
+            "name": "🌀听风｜知秋",
             "type": 3,
             "api": "csp_zhiqiu",
             "searchable": 1,
@@ -106,7 +106,7 @@
         },
         {
             "key": "Kan360",
-            "name": "流离｜寒鸦",
+            "name": "🧊流离｜寒鸦",
             "type": 3,
             "api": "csp_Kan360",
             "searchable": 1,
@@ -120,7 +120,7 @@
         },
         {
             "key": "Rebo",
-            "name": "热播｜APP",
+            "name": "🔥热播｜APP",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -132,7 +132,7 @@
         },
         {
             "key": "三秋影视",
-            "name": "三秋｜APP",
+            "name": "🍂三秋｜APP",
             "api": "csp_App3Q",
             "type": 3,
             "searchable": 1,
@@ -141,7 +141,7 @@
         },
         {
             "key": "若寒",
-            "name": "若寒｜APP",
+            "name": "🥶若寒｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -151,7 +151,7 @@
         },
         {
             "key": "玄羽",
-            "name": "玄羽｜APP",
+            "name": "🪶玄羽｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -161,7 +161,7 @@
         },
         {
             "key": "如兰",
-            "name": "如兰｜APP",
+            "name": "🌸如兰｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -171,7 +171,7 @@
         },
         {
             "key": "敛芳",
-            "name": "敛芳｜APP",
+            "name": "💗敛芳｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -181,7 +181,7 @@
         },
         {
             "key": "怀桑",
-            "name": "怀桑｜APP",
+            "name": "🌿怀桑｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -191,7 +191,7 @@
         },
         {
             "key": "长泽",
-            "name": "长泽｜APP",
+            "name": "🌊长泽｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -201,7 +201,7 @@
         },
         {
             "key": "晚吟",
-            "name": "晚吟｜APP",
+            "name": "🌙晚吟｜APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -210,7 +210,7 @@
         },
         {
             "key": "厌离",
-            "name": "厌离｜APP",
+            "name": "💔厌离｜APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -219,7 +219,7 @@
         },
         {
             "key": "枫眠",
-            "name": "枫眠｜APP",
+            "name": "🍁枫眠｜APP",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -228,7 +228,7 @@
         },
         {
             "key": "思追",
-            "name": "思追丨APP",
+            "name": "💧思追丨APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -237,7 +237,7 @@
         },
                     {
             "key": "gying",
-            "name": "观影｜4K",
+            "name": "👓观影｜4K",
             "type": 3,
             "api": "csp_Gying",
             "searchable": 1,
