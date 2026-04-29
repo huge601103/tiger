@@ -30,7 +30,7 @@
         },
         {
             "key": "Wogg",
-            "name": "玩偶｜4K",
+            "name": "🤡玩偶｜4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -49,7 +49,7 @@
         },
         {
             "key": "FishMuou",
-            "name": "木偶｜4K",
+            "name": "💗木偶｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -72,14 +72,14 @@
         },
         {
             "key": "ALLLive",
-            "name": "星河｜共影",
+            "name": "🌟星河｜共影",
             "type": 3,
             "api": "csp_ALLLive",
             "searchable": 1
         },
         {
             "key": "FishPs",
-            "name": "鱼鱼｜盘搜",
+            "name": "🐳鱼鱼｜盘搜",
             "type": 3,
             "api": "csp_FishPs",
             "searchable": 1,
