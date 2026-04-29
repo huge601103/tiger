@@ -1,4 +1,3 @@
-
 {
     "spider": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php;md5;6857c2aa7067598bde128e5df9e42048",
     "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
@@ -6,7 +5,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "🐯虎哥｜推荐",
+            "name": "豆瓣｜推荐",
             "type": 3,
             "api": "csp_Douban",
             "indexs": 1,
@@ -16,13 +15,13 @@
         },
         {
             "key": "FishConfig",
-            "name": "⚙️设置｜中心",
+            "name": "设置｜中心",
             "type": 3,
             "api": "csp_FishConfig"
         },
         {
             "key": "YGP",
-            "name": "📰新片｜预告",
+            "name": "新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 1,
@@ -31,7 +30,7 @@
         },
         {
             "key": "Wogg",
-            "name": "🤡玩偶｜4K",
+            "name": "玩偶｜4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -50,7 +49,7 @@
         },
         {
             "key": "FishMuou",
-            "name": "😄木偶｜4K",
+            "name": "木偶｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -64,23 +63,15 @@
             }
         },
         {
-            "key": "drpy_js_Alist",
-            "name": "💻网盘 | Alist[js]",
-            "type": 3,
-            "api": "./lib/alist.min.js",
-            "changeable": 0,
-            "ext": "./js/alist.json"
-        },
-        {
             "key": "ALLLive",
-            "name": "✨星河｜共影",
+            "name": "星河｜共影",
             "type": 3,
             "api": "csp_ALLLive",
             "searchable": 1
         },
         {
             "key": "FishPs",
-            "name": "🐳鱼鱼｜盘搜",
+            "name": "鱼鱼｜盘搜",
             "type": 3,
             "api": "csp_FishPs",
             "searchable": 1,
@@ -88,7 +79,7 @@
         },
         {
             "key": "bili",
-            "name": "✒️笔触｜琉璃",
+            "name": "笔触｜琉璃",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -99,7 +90,7 @@
         },
         {
             "key": "zhiqiu",
-            "name": "🌀听风｜知秋",
+            "name": "听风｜知秋",
             "type": 3,
             "api": "csp_zhiqiu",
             "searchable": 1,
@@ -107,7 +98,7 @@
         },
         {
             "key": "Kan360",
-            "name": "🧊流离｜寒鸦",
+            "name": "流离｜寒鸦",
             "type": 3,
             "api": "csp_Kan360",
             "searchable": 1,
@@ -121,7 +112,7 @@
         },
         {
             "key": "Rebo",
-            "name": "🔥热播｜APP",
+            "name": "热播｜APP",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -133,7 +124,7 @@
         },
         {
             "key": "三秋影视",
-            "name": "🍂三秋｜APP",
+            "name": "三秋｜APP",
             "api": "csp_App3Q",
             "type": 3,
             "searchable": 1,
@@ -142,7 +133,7 @@
         },
         {
             "key": "若寒",
-            "name": "🥶若寒｜APP",
+            "name": "若寒｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -152,7 +143,7 @@
         },
         {
             "key": "玄羽",
-            "name": "🪶玄羽｜APP",
+            "name": "玄羽｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -162,7 +153,7 @@
         },
         {
             "key": "如兰",
-            "name": "🌸如兰｜APP",
+            "name": "如兰｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -172,7 +163,7 @@
         },
         {
             "key": "敛芳",
-            "name": "💗敛芳｜APP",
+            "name": "敛芳｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -182,7 +173,7 @@
         },
         {
             "key": "怀桑",
-            "name": "🌿怀桑｜APP",
+            "name": "怀桑｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -192,7 +183,7 @@
         },
         {
             "key": "长泽",
-            "name": "🌊长泽｜APP",
+            "name": "长泽｜APP",
             "type": 3,
             "api": "csp_AppEy",
             "searchable": 1,
@@ -202,7 +193,7 @@
         },
         {
             "key": "晚吟",
-            "name": "🌙晚吟｜APP",
+            "name": "晚吟｜APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -220,7 +211,7 @@
         },
         {
             "key": "枫眠",
-            "name": "🍁枫眠｜APP",
+            "name": "枫眠｜APP",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -229,7 +220,7 @@
         },
         {
             "key": "思追",
-            "name": "💔思追丨APP",
+            "name": "思追丨APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -238,7 +229,7 @@
         },
                     {
             "key": "gying",
-            "name": "👀观影｜4K",
+            "name": "观影｜4K",
             "type": 3,
             "api": "csp_Gying",
             "searchable": 1,
@@ -260,7 +251,7 @@
         },
         {
             "key": "FishLabi",
-            "name": "🖍蜡笔｜4K",
+            "name": "蜡笔｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -278,7 +269,7 @@
         },
         {
             "key": "FishZhizhen",
-            "name": "💿至臻｜4K",
+            "name": "至臻｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -295,7 +286,7 @@
         },
                {
             "key": "FishErxiao",
-            "name": "🧒二小｜4K",
+            "name": "二小｜4K",
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
@@ -311,7 +302,7 @@
         },
                      {
             "key": "PanTa",
-            "name": "💿盘它｜4K",
+            "name": "盘它｜4K",
             "type": 3,
             "api": "csp_PanTa",
             "searchable": 1,
@@ -319,7 +310,7 @@
         },
         {
             "key": "夸父",
-            "name": "👨夸父｜4K",
+            "name": "夸父｜4K",
             "type": 3,
             "api": "csp_FishKF",
             "searchable": 1,
@@ -339,39 +330,38 @@
         },
               {
             "key": "YunPanBa",
-            "name": "💿盘吧｜4K",
+            "name": "盘吧｜4K",
             "type": 3,
             "api": "csp_YunPanBa",
             "searchable": 1,
             "ext": "https://yunpan6.com/"
         },
-             {
+        {
             "key": "YsSo",
-            "name": "🔍奕搜｜4K",
+            "name": "奕搜｜4K",
             "type": 3,
             "api": "csp_YsSo",
             "searchable": 1,
             "ext": "https://ysso.cc"
         },
-            {
+               {
             "key": "wencai",
-            "name": "🧮文才｜影视",
+            "name": "文才｜影视",
             "type": 3,
             "api": "csp_WenCai",
             "searchable": 1,
             "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         },
-
-            {
+        {
             "key": "Guazi",
-            "name": "🍉瓜子｜影视",
+            "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Guazi",
             "searchable": 1
         },
                 {
             "key": "Ikanbot",
-            "name": "👀爱看｜影视",
+            "name": "爱看｜影视",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -380,7 +370,7 @@
         },
                {
             "key": "Jianpian",
-            "name": "📰荐片｜磁力",
+            "name": "荐片｜磁力",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -388,7 +378,7 @@
         },
         {
             "key": "Xb6v",
-            "name": "💿6 V｜磁力",
+            "name": "6 V｜磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -396,7 +386,7 @@
         },
                {
             "key": "Local",
-            "name": "📰文件｜浏览",
+            "name": "文件｜浏览",
             "type": 3,
             "api": "csp_Local",
             "searchable": 0,
@@ -408,7 +398,7 @@
         },
         {
             "key": "Market",
-            "name": "💿网盘｜市场",
+            "name": "网盘｜市场",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
@@ -437,8 +427,8 @@
             "searchable": 1,
             "filterable": 1,
             "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/fishdrive.json"
-        }, 
-          {
+        },
+        {
             "key": "Wallpaper",
             "name": "摸鱼｜壁纸库",
             "type": 3,
@@ -452,7 +442,6 @@
                 "ratio": 0.56
             }
         }
-
     ],
     "lives": [],
     "parses": [],
