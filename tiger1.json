@@ -15,13 +15,13 @@
         },
         {
             "key": "FishConfig",
-            "name": "设置｜中心",
+            "name": "⚙️设置｜中心",
             "type": 3,
             "api": "csp_FishConfig"
         },
         {
             "key": "YGP",
-            "name": "新片｜预告",
+            "name": "📰新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 1,
