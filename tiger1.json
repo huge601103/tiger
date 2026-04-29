@@ -199,24 +199,7 @@
             "filterable": 1,
             "ext": "AXCBj5iowoVvHyi5t1+KdWKiwkguKBtxl+07UD+Yhlqa/ZPfvqsDVbvJjODnQyU9zCkd35xXPE5YEyFzoQdfnzrLSxPdSbNuguQnZpaa7FwK9J8rZYQCsaqrfXlbGcakhiSRXtj5RJLW6waEroeVrjCkbVz/xgEld9MVOgFkSZGuPPiKcJQKB+rzqXMVicBbol8cijO1iWzXIeuPfGQLOZvVTFZqrZGkFtR+j5+Jj0AWDDQ494uey8XIxIejWMSibD8xob6I77m/krY9DmZM6jHdG26MwkLkyGO9lSDubISJoKFzFYPM137ZDvJSIyWjioL/CkarK1A6hiRZK1o02os+l5CGFZZZWf4mLrh3WDXWitiaCnQGv94+zOt+ztjY5CNHBKAtlEKoes5JEaYYRLi661H77z9VErCFm5NwNxJ6wYLnRIHCM6/haRx0GqPR/h1tfPqZBhJQTJVgz6N80Hz1GRtDZKDw45BCkkjwtEnk9uKJF93dH/jThb4BcA9XxzEEV3mFUp8qXPUtJF0zxlJtnoYBDCEWT4Ax+h4kUa+jU8mB7Q8/38exbw1CsJphYP5wBYD07UfiUYZj/PW0n0f7/Zw/IGaF2bzJiYK3+kySYrvxTFB8dR3YnmEoqDSqB799pAapyoKhs+Re4/wW2klu3yDDPA5ePZj/R/+1MgXn/w4i2d/S/Cb494oEOCtz0jukudu8Ca1qZq9K+fVxxy1mEsa6yJUR3kvXHV1cojO/0MJhkABoGPFhnHGJK4/fVNJkCIMbLvetur4ZXLYZTss="
         },
-        {
-            "key": "晚吟",
-            "name": "🌙晚吟｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AbrYAR+wwOYjHghDPvaX+/5t5b6NyxuD7nLJL5Mkgv5I2+1VyAvyMSPCcr0pkyfvVaks34Ns7c6YilTDKwkr15v9zSJ73LDie9jB36BsHpuJr4nA0TWLSZuYaL0J4HEDwJ6XmisDagr6zUEI08pEZgCt5SVyO22Pa9zv4XbKuR50iS2HF1lbZmsdjEkZ2JrB5J3+iUWtOLmIqxmHQCzP1C4="
-        },
-        {
-            "key": "厌离",
-            "name": "💔厌离｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AYzygyRIBpoo44RlNZLzD5sWPWEAyx0tMn+XdMPt6/KjGk1xiZH+VMpMMrE6+zxuI4MFN/wn1sW/cDZkVRwH6TyoWvZrBDczvNuGuiRM0rK0JDIrm80zIEOP9ByWWuCGPXyzHwqh38WCWC1z7v/taX/thj9tgSihEdHAgI7FRHvaUlZ/uL9Xr9p4neO5HFeJagkdhyE6xanOEFSPt7HRH7M="
-        },
+       
         {
             "key": "枫眠",
             "name": "🍁枫眠｜APP",
@@ -228,7 +211,7 @@
         },
         {
             "key": "思追",
-            "name": "💧思追丨APP",
+            "name": "🌙思追丨APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
