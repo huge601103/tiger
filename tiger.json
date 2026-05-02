@@ -93,15 +93,7 @@
                 "type": "list"
             }
         },
-      {
-            "key": "AList",
-            "name": "💻AList",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./json/alist.json"
-        },
+     
         {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
