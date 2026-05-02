@@ -62,13 +62,14 @@
                 ]
             }
         },
-         {
-            "key": "drpy_js_Alist",
-            "name": "💻网盘 | Alist[js]",
+        {
+            "key": "AList",
+            "name": "💻AList",
             "type": 3,
-            "api": "./lib/alist.min.js",
+            "api": "csp_AList",
+            "searchable": 1,
             "changeable": 0,
-            "ext": "./js/alist.json"
+            "ext": "./json/alist.json"
         },
         {
             "key": "ALLLive",
