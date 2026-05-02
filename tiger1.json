@@ -62,15 +62,7 @@
                 ]
             }
         },
-        {
-            "key": "AList",
-            "name": "💻AList",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./json/alist.json"
-        },
+       
         {
             "key": "ALLLive",
             "name": "🌟星河｜共影",
