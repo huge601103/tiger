@@ -28,7 +28,26 @@
             "quickSearch": 1,
             "filterable": 1
         },
-          {
+            {
+            "key": "Wogg",
+            "name": "🤡玩偶｜4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "site": [
+                    "https://wogg.xxooo.cf",
+                    "https://woggpan.888484.xyz",
+                    "https://wogg.333232.xyz",
+                    "http://woggpan.xxooo.cf",
+                    "https://www.wogg.one"
+                ],
+                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+            }
+        },
+         {
             "key": "寻川",
             "name": "⛰️寻川｜4K",
             "api": "csp_AppNox",
@@ -69,26 +88,6 @@
             "api": "csp_AppNox",
             "type": 3,
             "ext": "Af1/6Y52uCcPbQl7IHrMceiPw3QWWzjeBXFiqhGDUYsuyDMVTAYqMnW0nMStGbZ6lcYLK2Bkk9rscOnqCso+gHJrZPcZQ3hgj8MbOqXxrt0cb+raTh5pLbiBdsBczLv+oYyKiF1tVW/Z33zzESEo27Ejmxir8ZP9mErU61hqWFKiH3O7GRMA5I94frJCWV0ts82nlcEuYuYoxarOOjF7pjeV0KgqPhsFChHuwSNzs/ntq4QMIv0MbM8FSLZlqg4V7IXofCp0/8692k7H2qwC2d4z0u3KSt4aFK9wOHWTqoBymDP3+Z4H45gcc9NoEM3El1WdkEOWXf9jHNOpK9i4y9xWzHwTbJ01ZQ1UhvlAjizpIfxesMWTfZQIXK1z5sjbNAxDafeUYzD8gtpczIlD/hoIw5ZBHqHYmBo26czJHclnJZEW/HIuF46rmCckpE+OP6RnhEMa4P0Z5+cW3RhTlk7hpeVWnqJZ+zbUuaOKUQzKHV9b0mRVzMVIQD0uGfsYCAQnqPcOIyVD5JQyL53GYp4fnEm2+9tECMUZIycv9HYoaLhQeq5P2t8E7fr/7/Yb3xgciZS0ies1MBWttooUjGKCplOKK1KLXsjb5440b+X3WNxBGCzbj9CmWlx7nwvhMGg0V/mZiRxYi/wYQrHy5/u9Wq/IUfXbJs+kS+cwGhf/cNu6ZnTSaWgPc0Lgs2tArez7+yazPys2IS0sDqVp9USRvhrVVIXKYqUp+BYcH40Aa9Zd1FD+1flEkjBY27bS4dxc+n9I8ARzKCv7l2L3xo3LOoTJhwu4mjCX8R4KJnzCgziG8zpTPFmomzlFCpqfGH+HD1m64+ssWCltqYZk2lWAsWOGOIyYBYFAGAE+oy7YwqQVFTJ7WlXdYaMNvU4cBuiBK7rajrIW5xydsumizDcqHISmos7CXcouLxWWE+fFC2lwFfJhjwDyYZeOhRtRMrmGVK+dfKPw4pd2ednlesxcLiCLO0smoJ8JivY3WNRYkBdLTd9X7h9TvOUUySmtkil9zlmTkTUSY/HwoMURpuDUlSqZIc5Ov8/mglapkkmSy/QIBcLVJsMphC+naxzv5A=="
-        },
-        
-        {
-            "key": "Wogg",
-            "name": "🤡玩偶｜4K",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "site": [
-                    "https://wogg.xxooo.cf",
-                    "https://woggpan.888484.xyz",
-                    "https://wogg.333232.xyz",
-                    "http://woggpan.xxooo.cf",
-                    "https://www.wogg.one"
-                ],
-                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
-            }
         },
         {
             "key": "FishMuou",
