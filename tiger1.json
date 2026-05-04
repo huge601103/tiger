@@ -106,20 +106,8 @@
             }
         },
        
-        {
-            "key": "ALLLive",
-            "name": "🌟星河｜共影",
-            "type": 3,
-            "api": "csp_ALLLive",
-            "searchable": 1
-        },
-        {
-            "key": "FishPs",
-            "name": "🐳鱼鱼｜盘搜",
-            "type": 3,
-            "api": "csp_FishPs",
-            "searchable": 1,
-            "filterable": 0
+      
+       
         },
         {
             "key": "bili",
